@@ -28,8 +28,8 @@ ${petik}│◦➛ Owner : ${ownername}
 │◦➛Personal Chat : ${totalchat.length - ini_gcchat.lenght}
 │◦➛Total All Chat : ${totalchat.length}
 │◦➛Group Chat : ${ini_gcchat}
-│◦➛Browser : Chrome
-│◦➛Server : Baileys
+│◦➛Browser : Replit
+│◦➛Server : Ubuntu
 │◦➛Version : 3.5.2${petik}
 ${petik}│◦➛Speed :${petik} ${latensiii} 
 ${petik}└❏ ${tekss}${petik}
